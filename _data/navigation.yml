@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Test"
-    url: /test/
+  - title: "Study"
+    url: /study/
+  - title: "Project"
+    url: /project/
 
 project:
   - title: project
