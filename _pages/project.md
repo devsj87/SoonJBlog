@@ -1,6 +1,6 @@
 ---
 title:  "Project Log"
-permalink: /project/
+permalink: /project
 author_profile: true
 sidebar:
     nav: 

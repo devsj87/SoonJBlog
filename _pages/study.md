@@ -1,6 +1,6 @@
 ---
 title:  "Study Log"
-permalink: /study/
+permalink: /study
 author_profile: true
 sidebar:
     nav: 
