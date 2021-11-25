@@ -15,142 +15,142 @@ project:
 javascript:
   - title: javascript
     children:
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
 
 
 nodejs:
   - title: nodejs
     children:
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
 
 
 react:
   - title: react
     children:
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
 
 docker:
   - title: docker
     children:
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
 
 
 git:
   - title: git
     children:
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
      
 gitpages:
   - title: gitpage
     children:
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
 
 markdown:
   - title: markdown
     children:
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
-      - title: chilrend
-        url: /chilrend
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
+      - title: children
+        url: /children
