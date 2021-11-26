@@ -13,7 +13,7 @@ project:
 
 
 javascript:
-  - title: javascript
+  - title: 문법
     children:
       - title: children
         url: /children
